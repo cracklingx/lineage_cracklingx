@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <project name="cracklingx/android_device_wileyfox_cracklingx" path="device/wileyfox/cracklingx" />
+  <project name="cracklingx/android_device_cyanogen_msm8916-common" path="device/cyanogen/msm8916-common" />
+  <project name="cracklingx/android_kernel_cyanogen_msm8916" path="kernel/cyanogen/msm8916" />
+  <project name="cracklingx/proprietary_vendor_wileyfox" path="vendor/wileyfox" />
+
+  <project name="LineageOS/android_hardware_sony_timekeep" path="hardware/sony/timekeep" />
+</manifest>
+
